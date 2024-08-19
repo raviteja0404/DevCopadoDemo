@@ -185,5 +185,6 @@
         <trackTrending>false</trackTrending>
         <type>Number</type>
         <unique>false</unique>
+        
     </fields>
 </CustomObject>
